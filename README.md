@@ -5,5 +5,5 @@
 - Run npm install
 
 - install CLI  => npm install -g @contentstack/cli
-- run project: npm run dev
+- run project: ng serve -o
 - open localhost:4200
